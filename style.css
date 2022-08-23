@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+.head2{
+    margin-bottom: -50px;
+}
+.head{
+    font-size: 40px;
+    font-family: 'Rajdhani', sans-serif;
+    color: rgb(116, 110, 110);
+    position: relative;
+    padding-left: 250px;
+    margin-bottom: 20px;
+
+}
+.heading{
+    width: 350px;
+    font-family: 'Rajdhani', sans-serif;
+    color: rgb(26, 25, 25);
+    position: relative;
+    padding-right: 400px;
+    margin-bottom: -30px;
+}
+section{
+    justify-content: center;
+    display: flex;
+    text-decoration: space;
+    position: relative;
+    margin-top: 10px;
+}
+.support{
+    text-align: center;
+    width: 250px;
+    height: 460px;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(240,240,240);
+    margin-right: 40px;
+}
+.support-icon{
+    margin-top: 20px;
+}
+.uptime{
+    text-align: center;
+    width: 250px;
+    height: 460px;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(240,240,240);
+    margin-right: 40px;
+}
+.uptime-icon{
+    margin-top: 20px;
+}
+.scalable{
+    text-align: center;
+    width: 250px;
+    height: 460px;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(240,240,240);
+    margin-right: 40px;
+}
+.scalable-icon{
+    margin-top: 20px;
+}
+.data-backup{
+    text-align: center;
+    width: 250px;
+    height: 460px;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(240,240,240);
+    margin-right: 40px;
+}
+.data-backup-icon{
+    margin-top: 20px;
+}
+h1{
+    color: rgb(76,76,76);
+    font-stretch: condensed;
+    font-size: 26px;
+}
+hr{
+    height: 2px;
+    background: rgb(238, 230, 230);
+    border: none;
+}
+p{
+    color: rgb(145, 143, 141);
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 45px;
+    font-stretch: condensed;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
